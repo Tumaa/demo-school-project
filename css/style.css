@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap');
+body{
+    background-image: url("../images/fatma.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:97vh;
+
+}
+.sect-1{
+    color: brown;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 50px;
+    font-family: 'DM Serif Text', serif;
+    
+    
+}
